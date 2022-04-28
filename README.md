@@ -5,6 +5,8 @@ Original Work to Black Hills Infosec: https://www.blackhillsinfosec.com/projects
 
 Original git from https://github.com/p3hndrx/B-B-Shuffle
 
+Online game from Blackhills InfoSec: https://play.backdoorsandbreaches.com/
+
 Make sure you have App folder from https://github.com/p3hndrx/B-B-Shuffle
 
 root@ubuntu:/opt/Dockerbb# docker build -t bb-game .
